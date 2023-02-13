@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.brewery.client.course.web.client.BreweryClientTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.642 s - in com.brewery.client.course.web.client.BreweryClientTest

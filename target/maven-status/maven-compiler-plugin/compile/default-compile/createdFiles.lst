@@ -1,0 +1,7 @@
+com/brewery/client/course/CourseApplication.class
+com/brewery/client/course/web/client/BreweryClient.class
+com/brewery/client/course/web/config/BlockingRestTemplateCustomizer.class
+com/brewery/client/course/web/model/CustomerDto.class
+com/brewery/client/course/web/model/BeerDto$BeerDtoBuilder.class
+com/brewery/client/course/web/model/CustomerDto$CustomerDtoBuilder.class
+com/brewery/client/course/web/model/BeerDto.class

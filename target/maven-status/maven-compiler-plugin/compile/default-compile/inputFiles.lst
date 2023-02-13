@@ -1,0 +1,5 @@
+/home/users/bpietrowiak/Spring_microservices/Brewery_Client_SpringCourse/src/main/java/com/brewery/client/course/web/model/BeerDto.java
+/home/users/bpietrowiak/Spring_microservices/Brewery_Client_SpringCourse/src/main/java/com/brewery/client/course/web/client/BreweryClient.java
+/home/users/bpietrowiak/Spring_microservices/Brewery_Client_SpringCourse/src/main/java/com/brewery/client/course/web/config/BlockingRestTemplateCustomizer.java
+/home/users/bpietrowiak/Spring_microservices/Brewery_Client_SpringCourse/src/main/java/com/brewery/client/course/CourseApplication.java
+/home/users/bpietrowiak/Spring_microservices/Brewery_Client_SpringCourse/src/main/java/com/brewery/client/course/web/model/CustomerDto.java
